@@ -61,10 +61,10 @@ layers:
   - layer1
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - layer1
-  - $$mdi:keyboard-space$$
+  - {t: '$$mdi:keyboard-return$$', type: enter}
   - $$mdi:apple-keyboard-option$$
   - $$mdi:apple-keyboard-command$$
-  - {t: '$$mdi:keyboard-return$$', type: enter}
+  - $$mdi:apple-keyboard-control$$
   layer1:
   - $$mdi:keyboard-esc$$
   - F1
