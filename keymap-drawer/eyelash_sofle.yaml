@@ -86,10 +86,10 @@ layers:
   - $$mdi:mouse-right-click-outline$$
   - '&mkp MB4'
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
+  - HOME
+  - PG DN
   - PG UP
   - END
-  - {t: '$$mdi:transfer$$', type: trans}
-  - HOME
   - {t: '[', s: '{'}
   - {t: ']', s: '}'}
   - {t: '$$mdi:transfer$$', type: trans}
